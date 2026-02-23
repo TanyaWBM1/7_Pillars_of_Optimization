@@ -907,14 +907,14 @@ If you want this to look professional on GitHub, here’s a clean repo structure
 /7-pillars-of-optimization
   README.md
   /docs
-    7-pillars-whitepaper.md
+    7-pillars-optimization_whitepaper.md
     7-pillars-one-page-summary.md
   /assets
     diagram.png
   LICENSE.md
 ```
 
-* Put the full paper in `/docs/7-pillars-whitepaper.md`
+* Put the full paper in `/docs/7-pillars-optimization-whitepaper.md`
 * Use the `README.md` as a short intro + link to the doc
 * Add `LICENSE.md` if you want a formal license document (I can draft one next)
 
@@ -1117,5 +1117,6 @@ This section exists to preserve conceptual continuity for future development and
 Nothing was removed. Nothing compressed. Pillars updated for 2026.
 Version 1.1.0 maintains the original 7-pillar architecture.
 Any structural change constitutes a new major version.
+
 
 
