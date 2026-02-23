@@ -16,7 +16,7 @@ It is a simplified companion to the official license. Please review the full ter
 
 For licensing terms, attribution requirements, and permitted uses, see:
 
-→ [LICENSE.md](../LICENSE.md)
+👉 [LICENSE.md](../LICENSE.md)
 
 ---
 
@@ -221,5 +221,6 @@ The official governing terms are always:
 # Citation
 
 Lawson, Tanya M. *The 7 Pillars of Optimization™.* 2026.
+
 
 ---
