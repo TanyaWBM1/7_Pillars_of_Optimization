@@ -920,194 +920,194 @@ If you want this to look professional on GitHub, here’s a clean repo structure
 
 ---
 
-Below are ready-to-use text blocks for different contexts. You can copy/paste exactly as written. None of these dilute the framework.
+---
 
-1. The Canonical Explainer Text (Primary / Reference)
+## Canonical Usage Text Blocks
 
-Use this on:
-
-GitHub README
-
-White paper intro
-
-Framework landing page
-
-The 7 Pillars of Optimization™ is a human-centered framework for building discoverability, trust, and authority in the age of artificial intelligence.
-
-It recognizes that optimization no longer ends at search rankings. Information now passes through generative systems, semantic interpretation, human cognition, and ethical consequence.
-
-The framework defines seven co-equal pillars—SEO, GEO, AIO, SDO, EEO, NLO, and HEO—that together govern how content is found, understood, trusted, remembered, and responsibly delivered.
-
-Rather than treating optimization as a technical tactic, the 7 Pillars define it as a full-lifecycle responsibility, spanning machine ingestion, meaning preservation, lived expertise, narrative clarity, and human agency.
-
-2. The Short Public Description (Light Canonical)
-
-Use this on:
-
-About pages
-
-Project disclosures
-
-Course descriptions (non-framework products)
-
-This project is informed by The 7 Pillars of Optimization™, a framework that extends optimization beyond visibility to include semantic integrity, lived expertise, narrative clarity, and ethical responsibility in AI-mediated environments.
-
-3. The One-Sentence Definition (Ultra-Compact)
-
-Use this when space is tight:
-
-Footers
-
-Slides
-
-Repo descriptions
-
-Bios
-
-The 7 Pillars of Optimization™ is a framework for optimizing not just visibility, but meaning, trust, and ethical impact in AI-driven information systems.
-
-4. The Plain-Language Explanation (Human / Non-Technical)
-
-Use this when speaking to non-SEO, non-AI audiences:
-
-The 7 Pillars of Optimization™ is a way of making sure information doesn’t just get found, but gets understood correctly, trusted for the right reasons, remembered by people, and shared without manipulation—especially in a world where AI now explains information for us.
-
-5. The Authority-Forward Framing (High-Stakes Fields)
-
-Use this for:
-
-Law
-
-Health
-
-Education
-
-Policy
-
-Ethics discussions
-
-The 7 Pillars of Optimization™ treats optimization as an ethical responsibility. It ensures that information distributed through search engines and AI systems preserves meaning, reflects genuine expertise, supports human understanding, and respects the audience’s agency—rather than exploiting attention or belief.
-
-6. The Internal Team / Creator Reminder (Operational)
-
-Use this inside docs or workflows:
-
-All published material should be reviewed against the 7 Pillars of Optimization™ to ensure accuracy, semantic integrity, human clarity, and ethical responsibility prior to release.
-
-7. What Not to Say (Important)
-
-Avoid wording like:
-
-❌ “A new SEO strategy”
-
-❌ “A growth framework”
-
-❌ “A marketing methodology”
-
-❌ “An AI hack system”
-
-Those collapse the framework into tactics and weaken HEO and SDO.
+Below are ready-to-use text blocks for different contexts. These can be copied and pasted as needed. None of these variations dilute the framework.
 
 ---
 
-# What changed (for your confidence)
+### The Canonical Explainer Text (Primary / Reference)
 
-Only strengthening updates were added:
+**Use this on:**
 
-✅ Core Web Vitals modernization (INP)
-✅ Retrieval contract (GEO)
-✅ Multi-turn AI interpretation (AIO)
-✅ Primary source preference (SDO)
-✅ Regulatory awareness (HEO)
-✅ Lifecycle responsibility language (Integration)
+- GitHub README  
+- White paper introduction  
+- Framework landing page  
+
+> **The 7 Pillars of Optimization™** is a human-centered framework for building discoverability, trust, and authority in the age of artificial intelligence.
+>
+> It recognizes that optimization no longer ends at search rankings. Information now passes through generative systems, semantic interpretation, human cognition, and ethical consequence.
+>
+> The framework defines seven co-equal pillars — SEO, GEO, AIO, SDO, EEO, NLO, and HEO — that together govern how content is found, understood, trusted, remembered, and responsibly delivered.
+>
+> Rather than treating optimization as a technical tactic, the 7 Pillars define it as a full-lifecycle responsibility spanning machine ingestion, meaning preservation, lived expertise, narrative clarity, and human agency.
 
 ---
 
-Future Development Note — Cross-Pillar Integration Guidance (Planned for Version 1.1+)
-Machine Structure vs. Human Narrative Tension
+### The Short Public Description (Light Canonical)
+
+**Use this on:**
+
+- About pages  
+- Project disclosures  
+- Course descriptions (non-framework products)  
+
+> This project is informed by **The 7 Pillars of Optimization™**, a framework that extends optimization beyond visibility to include semantic integrity, lived expertise, narrative clarity, and ethical responsibility in AI-mediated environments.
+
+---
+
+### The One-Sentence Definition (Ultra-Compact)
+
+**Use this when space is limited:**
+
+- Footers  
+- Slides  
+- Repository descriptions  
+- Bios  
+
+> **The 7 Pillars of Optimization™** is a framework for optimizing not just visibility, but meaning, trust, and ethical impact in AI-driven information systems.
+
+---
+
+### The Plain-Language Explanation (Human / Non-Technical)
+
+**Use for general audiences:**
+
+> The 7 Pillars of Optimization™ is a way of making sure information doesn’t just get found, but gets understood correctly, trusted for the right reasons, remembered by people, and shared without manipulation — especially in a world where AI now explains information for us.
+
+---
+
+### The Authority-Forward Framing (High-Stakes Fields)
+
+**Use for:**
+
+- Law  
+- Health  
+- Education  
+- Policy  
+- Ethics discussions  
+
+> **The 7 Pillars of Optimization™** treats optimization as an ethical responsibility. It ensures that information distributed through search engines and AI systems preserves meaning, reflects genuine expertise, supports human understanding, and respects the audience’s agency — rather than exploiting attention or belief.
+
+---
+
+### Internal Team / Creator Reminder (Operational)
+
+**Use inside documentation or workflows:**
+
+> All published material should be reviewed against **The 7 Pillars of Optimization™** to ensure accuracy, semantic integrity, human clarity, and ethical responsibility prior to release.
+
+---
+
+## What Not to Say (Important)
+
+Avoid wording that collapses the framework into tactics:
+
+❌ “A new SEO strategy”  
+❌ “A growth framework”  
+❌ “A marketing methodology”  
+❌ “An AI hack system”  
+
+These weaken the Semantic Depth (SDO) and Human Ethics (HEO) pillars.
+
+---
+
+## Strengthening Updates Included in This Version
+
+The following enhancements were integrated without altering the canonical architecture:
+
+- Core Web Vitals modernization (INP)  
+- Retrieval contract guidance (GEO)  
+- Multi-turn AI interpretation considerations (AIO)  
+- Primary source preference reinforcement (SDO)  
+- Regulatory awareness expansion (HEO)  
+- Lifecycle responsibility language (Systems Integration)  
+
+---
+
+## Future Development Note — Cross-Pillar Integration Guidance (Planned for Version 1.1+)
+
+### Machine Structure vs. Human Narrative Tension
 
 As generative systems and human-centered communication continue to evolve, an emerging implementation challenge has been identified across multiple pillars: the structural tension between machine-optimized information architecture and human-optimized narrative comprehension.
 
 Machines favor:
 
-Structured segmentation
-
-Explicit labeling
-
-Tables and lists
-
-Context-independent fragments
-
-Predictable formatting patterns
+- Structured segmentation  
+- Explicit labeling  
+- Tables and lists  
+- Context-independent fragments  
+- Predictable formatting patterns  
 
 Humans favor:
 
-Story flow
+- Story flow  
+- Emotional coherence  
+- Progressive revelation  
+- Metaphor and analogy  
+- Narrative engagement  
 
-Emotional coherence
+These preferences are not naturally aligned.
 
-Progressive revelation
-
-Metaphor and analogy
-
-Narrative engagement
-
-These preferences are not naturally aligned. Content optimized exclusively for machine extraction can become rigid and cognitively sterile, while content optimized exclusively for human storytelling can become difficult for retrieval systems to parse accurately.
+Content optimized exclusively for machine extraction can become rigid and cognitively sterile, while content optimized exclusively for human storytelling can become difficult for retrieval systems to parse accurately.
 
 This creates a cross-pillar interaction zone involving:
 
-GEO — Machine ingestion requirements
+- GEO — Machine ingestion requirements  
+- AIO — Summarization reliability  
+- SDO — Meaning preservation  
+- NLO — Human comprehension and retention  
 
-AIO — Summarization reliability
+The framework implicitly accounts for this tension through its layered design, but future versions may benefit from explicit integration guidance.
 
-SDO — Meaning preservation
+---
 
-NLO — Human comprehension and retention
+### Potential Future Addition: Implementation Patterns Layer
 
-The 7 Pillars framework implicitly accounts for this tension through its layered design, but future versions may benefit from explicit integration guidance for practitioners.
-
-Potential Future Addition: Implementation Patterns Layer
-
-A future version of the framework (Version 1.1 or later) may introduce an optional Implementation Patterns or Practitioner Layer designed to help creators operationalize cross-pillar alignment.
+A future version of the framework (Version 1.1 or later) may introduce an optional **Implementation Patterns** or **Practitioner Layer** designed to help creators operationalize cross-pillar alignment.
 
 Possible components could include:
 
-Hybrid formatting patterns that satisfy both retrieval systems and human cognition
+- Hybrid formatting patterns satisfying both retrieval systems and human cognition  
+- Structured narrative templates combining tables with explanatory prose  
+- Progressive depth architectures for multi-surface environments  
+- Retrieval-safe storytelling techniques  
+- Cross-pillar validation workflows prior to publication  
 
-Structured narrative templates combining tables with explanatory prose
-
-Progressive depth architectures for multi-surface environments
-
-Retrieval-safe storytelling techniques
-
-Cross-pillar validation workflows prior to publication
-
-This layer would not change the pillars themselves.
+This layer would **not change the pillars themselves.**
 
 Instead, it would function as:
 
-A practical bridge between theoretical framework architecture and real-world execution.
+> A practical bridge between theoretical framework architecture and real-world execution.
 
-Versioning Boundary
+---
 
-This concept is intentionally not included in Version 1.0 or 1.0.1, because:
+### Versioning Boundary
 
-The canonical pillars remain structurally complete
+This concept is intentionally not included in Version 1.0 or 1.0.1 because:
 
-No pillar definitions require modification
-
-The issue concerns implementation guidance, not framework architecture
+- The canonical pillars remain structurally complete  
+- No pillar definitions require modification  
+- The issue concerns implementation guidance, not framework architecture  
 
 Any future integration layer would therefore constitute:
 
-An expansion of practitioner guidance rather than a revision of the canonical model.
+> An expansion of practitioner guidance rather than a revision of the canonical model.
 
-Strategic Reminder
+---
 
-The 7 Pillars govern what must be optimized.
+### Strategic Reminder
 
-Future practitioner layers would help clarify how optimization is implemented across pillars simultaneously.
+The 7 Pillars govern **what must be optimized**.
 
-Preservation Note (Internal)
+Future practitioner layers would clarify **how optimization is implemented across pillars simultaneously**.
+
+---
+
+### Preservation Note (Internal)
 
 This section exists to preserve conceptual continuity for future development and prevent loss of the integration insight identified during external stress-testing.
+
+---
